@@ -2,12 +2,13 @@
 
 基于 node.js 的 `Router` `GET` `POST` 测试
 
-## 如何使用
+## Start
 
+Install dependencies:
 ```
 npm install
 ```
----
+Start the server:
 ```
-npm run start
+npm start
 ```
